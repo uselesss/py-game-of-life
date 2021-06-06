@@ -2,7 +2,7 @@
 ----
 Pygame version:
 
-"P" for pause/unpase (you can draw cells on pause)
+"P" for pause/unpause (you can draw cells on pause)
 
 ![img](https://user-images.githubusercontent.com/47245582/120940729-5c3bb180-c727-11eb-9beb-f2b4650cd6cd.png)
 
