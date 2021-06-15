@@ -26,5 +26,3 @@ Console version
  [0, 0, 0, 1, 0],
  [0, 1, 1, 1, 0],
  [0, 0, 0, 0, 0]]
->>> life.save(pathlib.Path('glider-4-steps.txt'))
-```
